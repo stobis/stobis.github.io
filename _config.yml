@@ -2,5 +2,6 @@ theme: jekyll-theme-cayman
 title: Michal Stobierski
 description: Theoretical Computer Science Student · Software Engineer (part-time) · Kraków, Poland
 urls:
+  cv: /assets/CV_MS__v2_.pdf
   github: https://github.com/stobis
   linkedin: https://www.linkedin.com/in/michal-stobierski/
