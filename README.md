@@ -1,5 +1,5 @@
-I am currently pursuing my final year of Theoretical Computer Science at the Jagiellonian University and  
-I am working as a Software Enginner at AVSystem ([Good Lood App](https://goodlood.com/app/en/) team; part-time).
+I am currently pursuing my final year of Theoretical Computer Science at the Jagiellonian University  
+and I am working as a Software Enginner at AVSystem ([Good Lood App](https://goodlood.com/app/en/) team; part-time).
   
 &nbsp;  
   
